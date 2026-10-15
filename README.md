@@ -377,7 +377,7 @@ Add screenshots of the running application to a `screenshots/` directory and upd
 
 ### Low-Stock Report
 
-![StockFlow Low-Stock Report](screenshots/stockflow-low-stock-report.png)
+![StockFlow Low-Stock Report](screenshots/Screenshot 2026-10-12 224750.png)
 
 ## Security and Deployment Notes
 
