@@ -369,7 +369,7 @@ Add screenshots of the running application to a `screenshots/` directory and upd
 
 ### Inventory Dashboard
 
-![StockFlow Inventory Dashboard](C:\Users\utkar\Desktop\StockFlow\.sfdx\screenshot\stockflow-dashboard.png)
+![StockFlow Inventory Dashboard](screenshots/stockflow-dashboard.png)
 
 ### Low-Stock Notification
 
