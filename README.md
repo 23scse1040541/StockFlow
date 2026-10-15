@@ -373,7 +373,7 @@ Add screenshots of the running application to a `screenshots/` directory and upd
 
 ### Low-Stock Notification
 
-![StockFlow Low-Stock Notification](.sfdx/screenshot/stockflow-notification.png)
+![StockFlow Low-Stock Notification](screenshots/stockflow-notification.png)
 
 ### Low-Stock Report
 
