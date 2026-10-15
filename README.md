@@ -423,10 +423,5 @@ This project demonstrates practical experience with:
 
 BCA Graduate | Aspiring Salesforce Developer
 
-<!-- **GitHub:** [Add your GitHub profile URL]
-
-**LinkedIn:** [Add your LinkedIn profile URL] -->
-
----
 
 *StockFlow is a portfolio project developed for learning and demonstrating Salesforce development concepts. Production use requires additional security review, testing, and operational configuration.*
