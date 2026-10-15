@@ -365,7 +365,7 @@ Add screenshots of the running application to a `screenshots/` directory and upd
 
 ### Inventory Transaction Screen
 
-![StockFlow Transaction Screen](C:\Users\utkar\Desktop\StockFlow\.sfdx\screenshot\stockflow-dashboard.png)
+![StockFlow Transaction Screen](screenshots/stockflow-transaction.png)
 
 ### Inventory Dashboard
 
