@@ -271,7 +271,7 @@ Before working with StockFlow, install or configure:
 Replace the example URL with the actual repository URL after publishing the project.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/StockFlow.git
+git clone https://github.com/23scse1040541/StockFlow.git
 cd StockFlow
 ```
 
